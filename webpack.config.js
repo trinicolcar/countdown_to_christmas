@@ -46,7 +46,7 @@ module.exports = {
 
 	plugins: [
 		new HtmlWebpackPlugin({
-			title: 'The Final Countdown',
+			title: ' Final Countdown',
 			template: './src/index.html'
 		})
 	]
