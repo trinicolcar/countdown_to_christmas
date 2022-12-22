@@ -1,3 +1,4 @@
+console.log('hola desde las particulas')
 particlesJS(
     {
         "particles": {

@@ -1,9 +1,9 @@
-console.log("Hello Countdown💜")
+console.log("Hello Countdown")
 
 import "./style.sass";
 import { updateCountDown } from "./countDown.js";
 
-const finalDate = new Date('Dec 21 2022 23:00:00')
+const finalDate = new Date('Dec 24 2022 23:59:50')
 console.log(`Fecha final: ${finalDate}`)
 
 setInterval(() => {
